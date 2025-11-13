@@ -1,6 +1,7 @@
 # Knight's Travails
 
 A JavaScript implementation that finds the shortest path for a knight on a chessboard using Breadth-First Search (BFS), with an interactive web visualization.
+https://knighttravails2.netlify.app/
 
 ## Overview
 
